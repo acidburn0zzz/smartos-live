@@ -17,7 +17,7 @@
   "devDependencies": {
     "jshint": ">=0.1.9",
     "nodeunit": ">=0.5.1",
-    "node-uuid": "1.1.0"
+    "node-uuid": "1.4.8"
   },
   "engines": {
     "node": ">=0.6"
