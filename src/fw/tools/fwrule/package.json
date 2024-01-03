@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Joyent (joyent.com)",
   "dependencies": {
-    "node-uuid": "1.2.0",
+    "node-uuid": "1.4.8",
     "extsprintf": "1.0.1",
     "verror": "1.3.4"
   },
